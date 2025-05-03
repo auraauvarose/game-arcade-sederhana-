@@ -3,6 +3,8 @@ import random
 import pygame
 from pygame.locals import *
 
+# ini gaeme
+
 pygame.init()
 
 ''' IMAGES '''
