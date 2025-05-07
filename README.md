@@ -51,7 +51,6 @@ pip install pygame
 git clone https://github.com/auraauvarose/game-arcade-sederhana-.git
 python main.py
 
-###
 
 ├── main.py              # File utama game
 ├── enemyship.png        # Gambar musuh
