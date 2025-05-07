@@ -48,7 +48,7 @@ Ini adalah game **Space Shooter 2D** sederhana yang dibuat menggunakan Python. P
 
 ```bash
 pip install pygame
-git clone
+git clone https://github.com/auraauvarose/game-arcade-sederhana-.git
 python main.py
 
 ###
