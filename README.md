@@ -35,7 +35,7 @@ Ini adalah game **Space Shooter 2D** sederhana yang dibuat menggunakan Python. P
 
 ## 📸 Screenshot
 
-![Gameplay](https://user-images.githubusercontent.com/placeholder/space-shooter-demo.png)
+![Gameplay](hgambar.png)
 
 > (Tambahkan screenshot jika ada. Bisa upload ke GitHub atau Imgur lalu tempel link-nya di atas.)
 
