@@ -48,10 +48,11 @@ Ini adalah game **Space Shooter 2D** sederhana yang dibuat menggunakan Python. P
 
 ```bash
 pip install pygame
+git clone
+python main.py
 
 ###
 
-```
 ├── main.py              # File utama game
 ├── enemyship.png        # Gambar musuh
 ├── phyship.png          # Gambar player
@@ -59,6 +60,8 @@ pip install pygame
 ├── enemybullet.png      # Peluru musuh
 ├── exp1.png - exp5.png  # Animasi ledakan
 └── ufo.png, ufobullet*  # Tambahan musuh/objek
+
+```
 
 🤝 Kontribusi
 Pull request dan ide pengembangan selalu diterima! Feel free untuk fork atau kasih bintang ⭐ kalau kamu suka proyek ini.
